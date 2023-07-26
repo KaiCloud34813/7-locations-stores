@@ -23,7 +23,7 @@ const MapContainer = () => {
   const storeLocation = { lat: 32.93927, lng: -96.80538 };
 
   return (
-    <LoadScript googleMapsApiKey="AIzaSyCjtLD88J3nU_EtstBP8hDK3A6tpuEeZlk">
+    <LoadScript googleMapsApiKey="****">
       <GoogleMap
         mapContainerStyle={mapStyles}
         zoom={4}
